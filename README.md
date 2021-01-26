@@ -1,3 +1,11 @@
+Projeto feito com o intuito de estudo: Pode ser conferido em: https://facebook-clone-3b90f.web.app/
+
+Tecnologias utilizadas: 
+.React 
+.axios 
+.material UI 
+.firebase (login e deploy)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
