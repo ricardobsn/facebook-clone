@@ -1,4 +1,6 @@
-Projeto feito com o intuito de estudo: Pode ser conferido em: https://facebook-clone-3b90f.web.app/
+Projeto feito com o intuito de estudo: 
+Projeto clone do Facebook
+Pode ser conferido em: https://facebook-clone-3b90f.web.app/
 
 Tecnologias utilizadas: 
 .React 
